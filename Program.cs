@@ -26,6 +26,8 @@ while (true)
 
     int playerInput = int.Parse(Console.ReadLine());
 
+
+
     //playerBackPack.AddOne(items[playerInput]);
     //Console.WriteLine(playerBackPack.CurentWeight);
 
